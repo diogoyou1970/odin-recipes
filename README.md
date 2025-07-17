@@ -1,1 +1,3 @@
-# odin-recipes
+Subject:first project in TOP to demonstrate HTML knowledge learned until now
+
+Body:the objective of this project is to build a simple recipe website, we don't care about CSS at this point. All the skills that I learn on HTML until this point will be tested, this includes (but not limited to): boilerplate, headings and paragraphs, lists, emphasis on text, images and links, and some major attributes, like rel on links.
